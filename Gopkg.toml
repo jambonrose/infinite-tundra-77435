@@ -28,3 +28,7 @@
 [prune]
   go-tests = true
   unused-packages = true
+
+[metadata.heroku]
+  root-package = "github.com/jambonrose/infinite-tundra-77435"
+  go-version = "go1.11.2"
